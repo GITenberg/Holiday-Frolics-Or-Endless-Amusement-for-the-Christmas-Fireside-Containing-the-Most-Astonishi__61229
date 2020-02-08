@@ -1,0 +1,34 @@
+_repo: Holiday-Frolics-Or-Endless-Amusement-for-the-Christmas-Fireside-Containing-the-Most-Astonishi__61229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2020-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61229'
+  lccn: '91154943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic tricks'
+- !lcc 'GV'
+- !lcsh 'Formulas, recipes, etc.'
+- !lcsh 'Amusements'
+- GITenberg
+title: "Holiday Frolics; Or, Endless Amusement for the Christmas Fireside\r\nContaining,\
+  \ the Most Astonishing Feats of Legerdemain, and Astounding Conjurings; Entertaining\
+  \ Experiments in Various Branches of Science; Tricks With Cards & Dice. Art of Making\
+  \ Fireworks; Together With an Excellent Collection of Puzzles, Conundrums, Riddles,\
+  \ Charades, &c. &c. The Whole Admirably Calculated to Beguile the Leisure Hours\
+  \ of Our Holiday Friends. Embellished With a Copper-plate Engraving"
+url: http://www.gutenberg.org/ebooks/61229
